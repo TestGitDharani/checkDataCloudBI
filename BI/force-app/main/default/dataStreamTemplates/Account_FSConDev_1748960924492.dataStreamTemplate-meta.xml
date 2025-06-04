@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataStreamTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataSourceBundleDefinition>CRM</dataSourceBundleDefinition>
+    <dataSourceObject>Account_FSConDev1</dataSourceObject>
+    <masterLabel>Account_FSConDev</masterLabel>
+    <objectCategory>Salesforce_SFDCReferenceModel_0_93.Profile</objectCategory>
+    <refreshFrequency>BATCH</refreshFrequency>
+    <refreshMode>UPSERT</refreshMode>
+    <sourceObjectName>Account_FSConDev</sourceObjectName>
+    <streamType>INGEST</streamType>
+    <templateVersion>1</templateVersion>
+</DataStreamTemplate>

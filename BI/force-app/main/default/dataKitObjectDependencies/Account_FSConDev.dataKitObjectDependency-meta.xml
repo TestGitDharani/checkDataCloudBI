@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataKitObjectDependency xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataPackageKitDef>test</dataPackageKitDef>
+    <developerName>Account_FSConDev</developerName>
+    <masterLabel>Account_FSConDev__dll</masterLabel>
+    <sourceObject>Account_FSConDev1</sourceObject>
+    <sourceObjectType>DataSourceObject</sourceObjectType>
+    <targetObject>Account_FSConDev</targetObject>
+</DataKitObjectDependency>
